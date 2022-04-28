@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: BaiThucHanh2, Configuration: Debug Any CPU ------
+1>  BaiThucHanh2 -> D:\workSpace\visualStudio-workspace\BaiThucHanh2\BaiThucHanh2\bin\Debug\BaiThucHanh2.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
